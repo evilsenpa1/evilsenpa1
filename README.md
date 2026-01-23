@@ -22,5 +22,6 @@
     <li>DevOpsing</li>
     <li>Architecture of web-apps</li>
   </ol></p>
-  
 </p>
+<h3>🤖Technology stack🤖</h3>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
