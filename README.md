@@ -38,7 +38,10 @@
 </p>
 
 <h3>Statistics</h3>
-
+<p>
+  
 ![evelsenpa1's github stats](https://github-readme-stats.vercel.app/api?username=evilsenpa1&show_icons=true&theme=dark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evilsenpa1&layout=compact&theme=dark)
+
+</p>
