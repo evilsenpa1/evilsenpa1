@@ -7,3 +7,11 @@
 <a href="https://www.instagram.com/thepiyushmalhotra/">
   <img height="50" src="https://cdn-icons-png.freepik.com/128/1383/1383262.png"/>
 </a>
+<h3>🔥About🔥</h3>
+<p>
+  <b>Name</b>: Oleksii
+  <b>Located</b>: Germany, Essen
+  <b>Education</b>: Self-Taught Developer and Designer
+  <b>Company</b>: Ur company can be here!
+  
+</p>
