@@ -14,7 +14,7 @@
   <p><b>Located:</b> Germany, Essen</p>
   <p><b>Education:</b> Self-Taught Developer and Designer</p>
   <p><b>Company:</b> Ur company can be here!</p>
-  <p><b>Interest in:</b><ol>
+  <p><b>Interests in:</b><ol>
     <li>Web-development</li>
     <li>UI/UX</li>
     <li>CyberSecurity</li>
@@ -27,4 +27,8 @@
 <p>
 <img class"width=50 height=50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 <img class"width=50 height=50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
+<img class"width=50 height=50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" />
+<img class"width=50 height=50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg" />
+<img class"width=50 height=50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg" />
+
 </p>
