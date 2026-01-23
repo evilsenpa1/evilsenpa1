@@ -9,9 +9,9 @@
 </a>
 <h3>🔥About🔥</h3>
 <p>
-  <b>Name</b>: Oleksii
-  <b>Located</b>: Germany, Essen
-  <b>Education</b>: Self-Taught Developer and Designer
-  <b>Company</b>: Ur company can be here!
+  <p><b>Name</b>: Oleksii</p>
+  <p><b>Located</b>: Germany, Essen</p>
+  <p><b>Education</b>: Self-Taught Developer and Designer</p>
+  <p><b>Company</b>: Ur company can be here!</p>
   
 </p>
