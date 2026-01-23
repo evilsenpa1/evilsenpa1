@@ -38,4 +38,4 @@
 </p>
 
 <h3>Statistics</h3>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=evilsenpa1)](https://github.com/anuraghazra/github-readme-stats)
+![evelsenpa1`s github stats](https://github-readme-stats.vercel.app/api?username=evilsenpa1&show_icons=true&theme=dark)
