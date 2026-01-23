@@ -24,4 +24,4 @@
   </ol></p>
 </p>
 <h3>🤖Technology stack🤖</h3>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+<img class"width=10 height=10" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
