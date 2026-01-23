@@ -4,7 +4,7 @@
 
 <h1 align="center">🐉Welcome, Ласкаво просимо, Добро пожаловать, Willkommen!👋</h1>
 
-<a href="https://www.instagram.com/thepiyushmalhotra/">
+<a href="#">
   <img height="50" src="https://cdn-icons-png.freepik.com/128/1383/1383262.png"/>
 </a>
 
