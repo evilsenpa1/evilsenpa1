@@ -13,14 +13,14 @@
   <p><b>Name:</b> Oleksii</p>
   <p><b>Located:</b> Germany, Essen</p>
   <p><b>Education:</b> Self-Taught Developer and Designer</p>
-  <p><b>Company:</b> Ur company can be here!</p>
+  <p><b>Company:</b> Ur company could be here!</p>
   <p><b>Interests in:</b><ol>
     <li>Web-development</li>
     <li>UI/UX</li>
     <li>CyberSecurity</li>
     <li>AI Integration</li>
     <li>DevOpsing</li>
-    <li>Architecture of web-apps</li>
+    <li>Web Application Architecture</li>
   </ol></p>
 </p>
 <h3>🤖Technology stack🤖</h3>
@@ -37,7 +37,7 @@
 <img class"width=50 height=50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" />
 </p>
 
-<h3>Statistics</h3>
+<h3>📊Statistics📊</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=evilsenpa1&show_icons=true&theme=synthwave" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=evilsenpa1&layout=compact&theme=synthwave" width="48%" />
