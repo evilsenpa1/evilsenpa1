@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+  <img src="https://capsule-render.vercel.app/api?type=shark&height=300&color=gradient&text=Hello&section=header&reversal=false"/>
 </p>
 <p align="center">
   <img src="https://media1.tenor.com/m/s2mgQIN5ACcAAAAd/ragna.gif" />
