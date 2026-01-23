@@ -39,6 +39,6 @@
 
 <h3>Statistics</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=evilsenpa1&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=evilsenpa1&layout=compact&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=evilsenpa1&show_icons=true&theme=synthwave" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=evilsenpa1&layout=compact&theme=synthwave" width="48%" />
 </p>
