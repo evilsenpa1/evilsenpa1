@@ -8,7 +8,7 @@
   <img height="50" src="https://cdn-icons-png.freepik.com/128/1383/1383262.png"/>
 </a>
 
-<a href="https://t.me/Joydiss">
+<a href="https://t.me/Joydisss">
   <img height="50" src="https://cdn-icons-png.flaticon.com/128/2111/2111646.png"/>
 </a>
 
