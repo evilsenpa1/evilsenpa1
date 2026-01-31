@@ -9,7 +9,7 @@
 </a>
 
 <a href="https://t.me/Joydiss">
-  <img height="50" src="https://cdn-icons-png.flaticon.com/128/3670/3670157.png"/>
+  <img height="50" src="https://cdn-icons-png.flaticon.com/128/2111/2111646.png"/>
 </a>
 
 <h3>🔥About🔥</h3>
