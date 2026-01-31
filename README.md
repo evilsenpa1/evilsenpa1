@@ -8,6 +8,10 @@
   <img height="50" src="https://cdn-icons-png.freepik.com/128/1383/1383262.png"/>
 </a>
 
+<a href="#">
+  <img height="50" src="https://cdn-icons-png.flaticon.com/128/3670/3670157.png"/>
+</a>
+
 <h3>🔥About🔥</h3>
 <p>
   <p><b>Name:</b> Oleksii</p>
