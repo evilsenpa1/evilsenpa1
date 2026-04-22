@@ -1,5 +1,5 @@
 <p align="center">
-  <img class="width=300" src="https://giffiles.alphacoders.com/220/220253.gif" />
+  <img class="width=300" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGlpZGgyYm55YmZuYjJ6cWw5Nm4za2dncmY1YXhneTJxZXIzOXdlcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NNVrFKZF3s61W/giphy.gif" />
 </p>
 
 <h1 align="center">🐉Welcome, Ласкаво просимо, Добро пожаловать, Willkommen!👋</h1>
