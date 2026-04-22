@@ -12,11 +12,6 @@
   <img height="50" src="https://cdn-icons-png.flaticon.com/128/2111/2111646.png"/>
 </a>
 
-<p align="center">
-  Python/Django developer with a focus on web application architecture 
-  and security. Building full-stack products with clean backend and 
-  modern frontend. Open to backend and fullstack roles.
-</p>
 
 <h3>🔥About🔥</h3>
 <p>
