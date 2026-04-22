@@ -1,5 +1,5 @@
 <p align="center">
-  <img class="width=300" src="(https://giffiles.alphacoders.com/220/220253.gif" />
+  <img class="width=300" src="https://giffiles.alphacoders.com/220/220253.gif" />
 </p>
 
 <h1 align="center">🐉Welcome, Ласкаво просимо, Добро пожаловать, Willkommen!👋</h1>
