@@ -17,13 +17,13 @@
   <p><b>Name:</b> Oleksii</p>
   <p><b>Located:</b> Germany, Essen</p>
   <p><b>Education:</b> Self-Taught Developer and Designer</p>
-  <p><b>Company:</b> Ur company could be here!</p>
+  <p><b>Company:</b> Open to opportunities</p>
   <p><b>Interests in:</b><ol>
     <li>Web-development</li>
     <li>UI/UX</li>
     <li>CyberSecurity</li>
     <li>AI Integration</li>
-    <li>DevOpsing</li>
+    <li>DevOps</li>
     <li>Web Application Architecture</li>
   </ol></p>
 </p>
