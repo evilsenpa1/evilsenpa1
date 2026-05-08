@@ -1,52 +1,48 @@
+## Hi, I'm Oleksii 👋
+
+**Junior Python Backend Developer** — Django · FastAPI · PostgreSQL · Docker  
+📍 Essen, Germany — open to junior developer roles (remote / hybrid / on-site)
+
+---
+
+### What I do
+
+I build full-stack web applications with focus on backend, async APIs, and
+production-grade DevOps — Docker, CI/CD, security scanning. Currently
+strengthening algorithms (LeetCode) and German (A1 → B1).
+
+### Featured projects
+
+- **[ukrkolo.site](https://ukrkolo.site)** — Ukrainian community marketplace
+  with geo-radius search and referral system.  
+  *Django 5 · PostgreSQL · Redis · Tailwind v4 · Docker · CI/CD with OWASP ZAP,
+  Semgrep, Nikto.* → [`django_ukr_forum`](https://github.com/evilsenpa1/django_ukr_forum)
+
+- **FastAPI Library API** — Async REST API with JWT cookie auth, RBAC, and
+  Repository/Service architecture.  
+  *FastAPI · async SQLAlchemy 2.0 · Pydantic v2 · Alembic.*
+  → [`FastAPIpet`](https://github.com/evilsenpa1/FastAPIpet)
+
+### Tech I work with
+
+`Python` · `Django` · `Django REST Framework` · `FastAPI` ·
+`SQLAlchemy (async)` · `Alembic` · `Pydantic v2` · `PostgreSQL` · `Redis` ·
+`Docker` · `Docker Compose` · `Nginx` · `Gunicorn` · `GitHub Actions` ·
+`Tailwind CSS` · `Git`
+
+### Languages
+
+🇺🇦 Ukrainian (native) · 🇷🇺 Russian (fluent) · 🇬🇧 English (technical) ·
+🇩🇪 German (A1, learning)
+
+### Contact
+
+📧 [u.uchba@gmail.com](mailto:u.uchba@gmail.com) ·
+💬 [Telegram](https://t.me/Joydisss)
+
+---
+
 <p align="center">
-  <img class="width=300" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGlpZGgyYm55YmZuYjJ6cWw5Nm4za2dncmY1YXhneTJxZXIzOXdlcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NNVrFKZF3s61W/giphy.gif" />
-</p>
-
-<h1 align="center">🐉Welcome, Ласкаво просимо, Добро пожаловать, Willkommen!👋</h1>
-
-<a href="#">
-  <img height="50" src="https://cdn-icons-png.freepik.com/128/1383/1383262.png"/>
-</a>
-
-<a href="https://t.me/Joydisss">
-  <img height="50" src="https://cdn-icons-png.flaticon.com/128/2111/2111646.png"/>
-</a>
-
-
-<h3>🔥About🔥</h3>
-<p>
-  <p><b>Name:</b> Oleksii</p>
-  <p><b>Located:</b> Germany, Essen</p>
-  <p><b>Education:</b> Self-Taught Developer and Designer</p>
-  <p><b>Company:</b> Open to opportunities</p>
-  <p><b>Interests in:</b><ol>
-    <li>Web-development</li>
-    <li>UI/UX</li>
-    <li>CyberSecurity</li>
-    <li>AI Integration</li>
-    <li>DevOps</li>
-    <li>Web Application Architecture</li>
-  </ol></p>
-</p>
-<h3>🤖Technology stack🤖</h3>
-<p>
-<img class"width=50 height=50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-<img class"width=50 height=50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
-<img class"width=50 height=50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" />
-<img class"width=70 height=70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-plain-wordmark.svg" />
-<img class"width=50 height=50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" />
-<img class"width=50 height=50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" />
-<img class"width=60 height=60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original-wordmark.svg" />
-<img class"width=50 height=50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-<img class"width=50 height=50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" />
-<img class"width=50 height=50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" />
-<img class"width=50 height=50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" />
-<img class"width=50 height=50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-plain-wordmark.svg" />
-<img class"width=50 height=50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/djangorest/djangorest-original.svg" />
-</p>
-
-<h3>📊Statistics📊</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=evilsenpa1&show_icons=true&theme=synthwave" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=evilsenpa1&layout=compact&theme=synthwave" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=evilsenpa1&show_icons=true&hide_border=true&theme=default" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=evilsenpa1&layout=compact&hide_border=true&theme=default" width="48%" />
 </p>
