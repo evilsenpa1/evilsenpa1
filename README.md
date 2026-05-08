@@ -24,7 +24,7 @@
 
 I build full-stack web applications with focus on backend, async APIs, and
 production-grade DevOps — Docker, CI/CD, security scanning. Currently
-strengthening algorithms (LeetCode) and German (A1 → B1).
+improving my German (A1 → B1) for the local market.
 
 ### 🚀 Featured projects
 
@@ -60,10 +60,3 @@ strengthening algorithms (LeetCode) and German (A1 → B1).
 ### 🌍 Languages
 
 **Ukrainian** (native) · **Russian** (fluent) · **English** (technical) · **German** (A1, learning)
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=evilsenpa1&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=default&cache_seconds=1800" width="48%" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=evilsenpa1&layout=compact&hide_border=true&theme=default&cache_seconds=1800" width="48%" alt="Top languages" />
-</p>
