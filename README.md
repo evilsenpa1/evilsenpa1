@@ -28,16 +28,18 @@ improving my German (A1 → B1) for the local market.
 
 ### 🚀 Featured projects
 
-- **[ukrkolo.site](https://ukrkolo.site)** — Ukrainian community marketplace
-  with geo-radius search and referral system.  
-  *Django 5 · PostgreSQL · Redis · Tailwind v4 · Docker · CI/CD with OWASP ZAP,
-  Semgrep, Nikto.*  
-  → [`django_ukr_forum`](https://github.com/evilsenpa1/django_ukr_forum)
+- **UkrKolo** — Ukrainian community marketplace, modular monolith with clean
+  architecture (Protocol-based contracts, service/repository layers).
+  Public deployment is currently paused pending legal review (Impressum /
+  German TMG requirements) before going live to German users.  
+  *Django · PostgreSQL · Redis · Celery · Docker · GitHub Actions*  
+  → [`ukr-forum-rest`](https://github.com/user-RC147/ukr-forum-rest)
 
-- **FastAPI Library API** — Async REST API with JWT cookie auth, RBAC, and
-  Repository/Service architecture.  
-  *FastAPI · async SQLAlchemy 2.0 · Pydantic v2 · Alembic.*  
-  → [`FastAPIpet`](https://github.com/evilsenpa1/FastAPIpet)
+- **SecretChat** — Real-time chat with JWT cookie auth and a WebSocket
+  protocol for message delivery, using client-generated message IDs for
+  delivery acknowledgment.  
+  *FastAPI · WebSockets · async SQLAlchemy · Alembic · PostgreSQL · Docker*  
+  → [`SecretChat`](https://github.com/evilsenpa1/SecretChat)
 
 ### 💻 Tech stack
 
@@ -52,7 +54,6 @@ improving my German (A1 → B1) for the local market.
   <img src="https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white" />
   <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/-Nginx-009639?style=flat&logo=nginx&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" />
   <img src="https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white" />
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" />
 </p>
