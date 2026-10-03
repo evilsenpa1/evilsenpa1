@@ -60,4 +60,4 @@ improving my German (A1 → B1) for the local market.
 
 ### 🌍 Languages
 
-**Ukrainian** (native) · **Russian** (fluent) · **English** (technical) · **German** (A1, learning)
+**Ukrainian** (native) · **Russian** (fluent) · **English** (technical) · **German** (A2, learning)
