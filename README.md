@@ -24,7 +24,7 @@
 
 I build full-stack web applications with focus on backend, async APIs, and
 production-grade DevOps — Docker, CI/CD, security scanning. Currently
-improving my German (A1 → B1) for the local market.
+improving my German (A2 → B1) for the local market.
 
 ### 🚀 Featured projects
 
